@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnkurBombarde
-- 👀 I’m interested in Web Development, Software Development and App Development
-- 🌱 I’m currently learning C++, Python, Java
+- 👀 I’m interested in Web Development,App Development and Data Analytics
+- 🌱 I’m currently learning Kotlin, PHP and Python
 
 
 
