@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnkurBombarde
 - 👀 I’m interested in Web Development,App Development 
-- 🌱 I’m currently learning Kotlin
 
 
 
