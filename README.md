@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnkurBombarde
-- 👀 I’m interested in Web Development, App Development and Data Science 
+- 👀 I’m interested in Web Development and Data Science 
 
 
 
